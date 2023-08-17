@@ -54,3 +54,8 @@
     padding: 1em;
     background-color: var(--branco);
 }
+    @media screen and(min-wiht: 825px) {
+.titulo__cabecalho{ 
+    display: none;
+}    
+}
